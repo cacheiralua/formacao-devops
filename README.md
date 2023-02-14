@@ -1,5 +1,12 @@
 # Formação DevOps
-Deloitte DevOps CrashCourse Repos
+
+CrashCourse repository.
+
+## Used By
+
+This project is used by the following companies:
+
+- Deloitte
 
 ## Authors
 
